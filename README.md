@@ -1,5 +1,5 @@
 # Manjaro ARM Pinebook Pro
-[![iso_build](https://github.com/manjaro-arm/pinebook-pro-images/workflows/image_build/badge.svg)](https://github.com/manjaro-arm/pinebook-pro-images/actions)
+[![iso_build](https://github.com/manjaro-arm/pbpro-images/workflows/image_build/badge.svg)](https://github.com/manjaro-arm/pbpro-images/actions)
 
 ## description
 
