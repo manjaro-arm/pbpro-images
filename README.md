@@ -7,7 +7,7 @@ Release Branch for Manjaro ARM images for the Pinebook Pro
 
 ## where can I download an iso?
 
-Images are build and uploaded in a relatively regular interval to [github releases](https://github.com/manjaro-arm/pinebook-pro-images/releases)
+Images are build and uploaded in a relatively regular interval to [github releases](https://github.com/manjaro-arm/pbpro-images/releases)
 
 ## sources
 
